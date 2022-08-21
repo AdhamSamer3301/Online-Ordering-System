@@ -1,0 +1,24 @@
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.exe.config
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.exe
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.pdb
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csprojAssemblyReference.cache
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online_Ordering_System.Online_Order.resources
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online_Ordering_System.Properties.Resources.resources
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csproj.GenerateResource.cache
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.exe
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.pdb
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\bin\Debug\Order_System.mdf
+C:\Users\adham\source\repos\Online Ordering System\Online Ordering System\bin\Debug\Order_System_log.ldf
+E:\New folder\Online Ordering System\Online Ordering System\bin\Debug\Order_System.mdf
+E:\New folder\Online Ordering System\Online Ordering System\bin\Debug\Order_System_log.ldf
+E:\New folder\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.exe.config
+E:\New folder\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.exe
+E:\New folder\Online Ordering System\Online Ordering System\bin\Debug\Online Ordering System.pdb
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csprojAssemblyReference.cache
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online_Ordering_System.Online_Order.resources
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online_Ordering_System.Properties.Resources.resources
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csproj.GenerateResource.cache
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.csproj.CoreCompileInputs.cache
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.exe
+E:\New folder\Online Ordering System\Online Ordering System\obj\Debug\Online Ordering System.pdb
